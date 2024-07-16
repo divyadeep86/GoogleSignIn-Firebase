@@ -35,15 +35,7 @@ This project is a demonstration of Google Sign-In and Sign-Out using Firebase in
 
 ## Screenshots
 
-Here are some screenshots of the application:
-
-[//]: # (![Screenshot 1]&#40;https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png&#41;)
-
-[//]: # (![Screenshot 2]&#40;https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png&#41;)
-
-[//]: # (![Screenshot 2]&#40;https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184626.png&#41;)
-
-```html
+Here are some screenshots of the application
 <table>
   <tr>
     <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png" width="300" /></td>
@@ -51,7 +43,7 @@ Here are some screenshots of the application:
     <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184626.png" width="300"/></td>
   </tr>
 </table>
-```
+
 ## Video
 
 Here is a video demonstration of the application
