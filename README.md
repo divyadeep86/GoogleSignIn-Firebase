@@ -1,8 +1,8 @@
-# GoogleSignIn-Firebase# GoogleSignIn(FireBase)
+# GoogleSignIn-Firebase
 
 ## Description
 
-This project is a demonstration of Google Sign-In using Firebase in an Android application. It uses the Google Play Services plugin for Gradle and the Firebase SDK to authenticate users with their Google accounts.
+This project is a demonstration of Google Sign-In and Sign-Out using Firebase in an Android application. It uses the Google Play Services plugin for Gradle and the Firebase SDK to authenticate users with their Google accounts.
 
 ## Features
 
@@ -17,7 +17,7 @@ This project is a demonstration of Google Sign-In using Firebase in an Android a
 
 ## Features
 
-- Google Sign-In
+- Google Sign-In and Sign-Out
 - Firebase Authentication
 3. Add your Firebase project configuration file (`google-services.json`) to the `app` directory.
 - One Tap Sign-In
@@ -52,18 +52,3 @@ Here is a video demonstration of the application:
 
 [Watch the Sign In Video](url-to-sign-in-video)
 
-### Sign Out
-
-## Code Snippets
-
-Here is a code snippet from the project:
-
-```kotlin
-![Sign Out Screenshot](path-to-sign-out-screenshot.png)
-
-class GoogleAuthUiClient(
-    private val context: Context,
-    private val oneTapClient: SignInClient
-) {
-    // ...
-}
