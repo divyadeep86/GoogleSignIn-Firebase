@@ -43,7 +43,7 @@ Here are some screenshots of the application:
 
 [//]: # (![Screenshot 2]&#40;https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184626.png&#41;)
 
-```markdown
+```html
 <table>
   <tr>
     <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png" width="300" /></td>
