@@ -46,9 +46,9 @@ Here are some screenshots of the application:
 
 Here is a video demonstration of the application:
 
-![Sign In Screenshot](path-to-sign-in-screenshot.png)
+![Sign In Screenshot](https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png)(https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png)
 
-[![Demo Video](path_to_video_thumbnail.png)](link_to_video)
+[![Demo Video](path_to_video_thumbnail.png)](https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screen_recording_20240716_184702.mp4)
 
-[Watch the Sign In Video](url-to-sign-in-video)
+[Watch the Sign In Video](https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screen_recording_20240716_184702.mp4)
 
