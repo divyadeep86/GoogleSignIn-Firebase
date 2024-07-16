@@ -37,18 +37,26 @@ This project is a demonstration of Google Sign-In and Sign-Out using Firebase in
 
 Here are some screenshots of the application:
 
-![Screenshot 1](path_to_screenshot_1.png)
-### Sign In
+[//]: # (![Screenshot 1]&#40;https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png&#41;)
 
-![Screenshot 2](path_to_screenshot_2.png)
+[//]: # (![Screenshot 2]&#40;https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png&#41;)
 
+[//]: # (![Screenshot 2]&#40;https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184626.png&#41;)
+
+```markdown
+<table>
+  <tr>
+  <img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png" width="300" />
+    <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png" width="200"/></td>
+  <img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png" width="300" /> 
+    <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png" width="200"/></td>
+  <img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184626.png" width="300" />
+</p>
+```
 ## Video
 
 Here is a video demonstration of the application:
 
-![Sign In Screenshot](https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png)(https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png)
-
 [![Demo Video](path_to_video_thumbnail.png)](https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screen_recording_20240716_184702.mp4)
 
-[Watch the Sign In Video](https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screen_recording_20240716_184702.mp4)
 
