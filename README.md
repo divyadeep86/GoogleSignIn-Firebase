@@ -55,7 +55,7 @@ Here are some screenshots of the application:
 ## Video
 
 Here is a video demonstration of the application:
+https://github.com/user-attachments/assets/9f5a9d3c-e646-4f5b-a53d-55b406ac321e
 
-[![Demo Video](path_to_video_thumbnail.png)](https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screen_recording_20240716_184702.mp4)
 
 
