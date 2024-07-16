@@ -46,12 +46,11 @@ Here are some screenshots of the application:
 ```markdown
 <table>
   <tr>
-  <img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png" width="300" />
-    <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png" width="200"/></td>
-  <img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png" width="300" /> 
-    <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png" width="200"/></td>
-  <img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184626.png" width="300" />
-</p>
+    <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184531.png" width="300" /></td>
+    <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184612.png" width="300"/></td>
+    <td><img src="https://github.com/divyadeep86/GoogleSignIn-Firebase/blob/main/images/Screenshot_20240716_184626.png" width="300"/></td>
+  </tr>
+</table>
 ```
 ## Video
 
